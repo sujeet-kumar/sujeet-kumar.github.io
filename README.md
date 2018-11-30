@@ -1,2 +1,2 @@
-# sujeet-kumar.github.io
-Personal GitHub Website http://sujeet-kumar.github.io
+# sujeetkv.github.io
+[Personal GitHub Website](http://sujeetkv.github.io)
